@@ -23,7 +23,7 @@ int main()
 	{
 		if(i==1)
 		{
-			cout<<t1<<",";
+			cout<<t1<<",";//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
 		}
 
 		if (i==2)
@@ -33,12 +33,9 @@ int main()
 
 		nextterm=t1+t2;
 		t1=t2;
+		t2=nextterm;
 
-		cout<<nextterm;
+		cout<<nextterm<<",";
 	}
 	return 0;
 }
-
-
-https://github.com/nikita-kadam/cpp.git
-https://github.ca-kadam/cpp.gitom/nikit
